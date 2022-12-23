@@ -16,7 +16,7 @@ verNotificacion.addEventListener('click', () => {
         });
 
         notificacion.onclick = function(){
-            window.open('https://github.com/KevynC0rt/PWA-app');
+            window.open('https://github.com/JoseC0rtez/pwa');
         }
     }
 })

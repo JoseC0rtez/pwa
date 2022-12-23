@@ -26,8 +26,10 @@ self.addEventListener("install",event=>{
                 "/js/app.js",
                 "/js/base.js",
                 "/js/pouchdb.js",
-                "/js/pouchdb-nightly.js.js",
+                "/js/pouchdb-nightly.js",
                 "/js/indexdb.js",
+                "/js/fisico.js",
+                "/js/push.js",
                 "/pages/fisico.html",
                 "/pages/push.html",
                 "/pages/sincro.html"
